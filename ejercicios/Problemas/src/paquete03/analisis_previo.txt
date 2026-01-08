@@ -1,0 +1,8 @@
+El código en un inicio nos preguntará que queremos usar, ya sea averiguar 
+el area de un cuadrado ingresando 1 o si deseamos saber el area de un triángulo 
+debemos ingresar 2 o el area de un rectángulo ingreando el 3, luego de eso, 
+ingresamos a la función que hayamos seleccionado, pediremos el valor de los
+lados o bases o alturas, calculamos el area y presentamos en pantalla el total.
+ 
+
+

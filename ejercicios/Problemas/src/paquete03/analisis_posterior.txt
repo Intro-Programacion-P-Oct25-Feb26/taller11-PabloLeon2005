@@ -1,0 +1,5 @@
+Algo que cometí como error fue con el Scanner, a la vez aprendí que el scanner 
+lo debo declarar en cada función, pues yo en un inicio creí que al declararlo
+mas arriba en el Main, ya funcionarí globalmente, pero recien me dí cuenta que 
+no es así y la solución fue ingresar un scanner nuevo en cada función, eso fue
+el error que cometí pues no creí que fuera necesario volver a declararlo.
