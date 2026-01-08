@@ -23,7 +23,7 @@ public class Problema1 {
         String r = "";
         for (int i = 0; i < datos.length; i++) {
             for (int j = 0; j < datos.length; j++) {
-                if (datos[i][j] / 2 == 0) {
+                if (datos[i][j] % 2 == 0) {
                     r = r + " " + datos[i][j];
 
                 }
