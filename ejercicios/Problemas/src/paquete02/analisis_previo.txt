@@ -1,0 +1,5 @@
+El programa en un inicio pide lo que sería los nombres de las viviendas y lo que
+sería el consumo mensual de luz, luego necesitamos que haga una sumatoria total
+de todos los meses ingresados, para esto debemos recorrer el arreglo, y así 
+finalmente poder presentar en pantalla un reporte final con el consumo total 
+anual de cada vivienda.

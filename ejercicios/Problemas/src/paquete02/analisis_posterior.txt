@@ -1,0 +1,4 @@
+El error que cometí en un inicio en las funciones fue que me olvide de limpiar 
+para poder pasar a la siguiente linea de código, olvide el .next y debido a eso
+el código no funcionaba y no sabía por que era hasta que finalmente comprendi
+que hasta en funciones se debe limpiar antes de pasar a otro doble, entero, etc.
