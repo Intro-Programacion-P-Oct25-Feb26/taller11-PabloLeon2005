@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author reroes
  */
-public class Ejemplo5 {
+public class Ejemplo6 {
 
     /**
      * @param args the command line arguments
@@ -19,6 +19,7 @@ public class Ejemplo5 {
     public static void main(String[] args) {
       String cadena = "Hola mundo";
 
+      
       System.out.println(cadena.length());
     }
 

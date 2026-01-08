@@ -1,0 +1,5 @@
+Lo que vamos a necesitar son números enteros en un arreglo, de ahí debemos ir 
+reccoriendo el arreglo posición por posición, cada vez que se agarra un nuevo 
+número del arreglo, lo analizamos en una función si es divisible para dos, si el
+número si es divisible para dos, lo almacenamos en una cadena de texto para 
+finalmente imprimir todos los números que sean divisibles para dos o pares.

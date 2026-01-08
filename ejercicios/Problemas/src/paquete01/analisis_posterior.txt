@@ -1,0 +1,5 @@
+Un error que cometí al inicio es que a veces al ponerle límite al for suelo 
+ponerle un número de mas o un número de menos, pero logré corregirlo y hacerlo
+más práctico al código con el uso del .length ya que este automáticamente 
+detecta la longitud del arreglo y la establece como límite para que funcione el 
+código de manera correcta.
