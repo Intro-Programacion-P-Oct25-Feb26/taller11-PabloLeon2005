@@ -1,0 +1,5 @@
+Lo que me resultó mas difícil de esto no fue el código en sí, fue mas la parte 
+de entender lo que era la desviación, pues esta resulto siendo el valor que se
+obetenia en la media, por lo tanto debía hacer uso de la primera función 
+nuevamente, de ahí había que suma el cuadrado de la diferencia de cada número 
+con respecto a la media que obtuvimos luego dividir y obtener la raiz cuadrada.

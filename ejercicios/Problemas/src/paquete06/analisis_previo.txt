@@ -1,0 +1,5 @@
+Aquí debemos de tomar un arreglo, yo tome el que se nos dió de ejemplo, y con
+ese arreglo debemos hacer dos cosas, así que es un arreglo global, primero lo 
+enviamos a la funcion que hará la medía aritmética, es decir recorrera el 
+arreglo, sumando sus datos y dividiendo para la cantidad de datos, en la 
+desviación hacemos el proceso de desviación e imprimimos el total

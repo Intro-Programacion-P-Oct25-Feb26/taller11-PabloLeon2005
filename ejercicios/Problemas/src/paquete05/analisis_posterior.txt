@@ -1,0 +1,4 @@
+Los errores que cometí fue que los nombres de las funciones en el ejemplo un 
+poco resuelto eran raras, por lo que opté por cambiarlos, ya que en un inicio
+me estaba confundiendo un poco por reutilizar la función que ya se encontraba 
+anteriormente resuelta

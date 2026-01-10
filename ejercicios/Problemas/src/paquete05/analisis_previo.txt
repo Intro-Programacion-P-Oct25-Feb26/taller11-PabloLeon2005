@@ -1,0 +1,5 @@
+Al analizar este problema lo pude comparar con el Ejemolo 3 del paquete ejemplos
+pues tenían mucho que ver y eran las raíces por así decirlo, desde ese punto ya 
+fue mas sencillo partir, necesitabamos crear un arreglo que obtuviera los 
+resultados, la otra matriz estaba comentada en el ejemplo 3, la usamos y creamos
+un procedimiento que imprima el mensaje final con los resultados de la suma

@@ -1,0 +1,5 @@
+Primero debemos solicitar la cantidad de ciudades que se van a ingresar, luego 
+nos permite ingresar el nombre de cada ciudad, y la vamos guardando en un 
+arreglo, luego de eso, vamos a un procedimiento quien esta encargádo de filtrar
+las palabras de 4 y 5 letras, para poder enviar unicamente las que cumplas con
+esa condición. 

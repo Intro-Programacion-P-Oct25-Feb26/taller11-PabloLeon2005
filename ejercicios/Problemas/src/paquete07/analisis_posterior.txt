@@ -1,0 +1,5 @@
+Cometí algunos errores como el tema de limpiar los buffers o aplicar un next, 
+además cuando probe el código me dí cuenta que si ingresaba todas las palabras 
+de mas de 5 letras, al final no me imprimía nada, por lo que decidí implementar 
+un pequeño mensaje, el cual únicamente se imprime cuando todas las palabras 
+ingresadas no cumplieron con la condición.

@@ -1,1 +1,5 @@
-Este código nos solicita 
+Este código nos solicita el nombre y cédula del cliente de forma general, luego
+nos da a elegir si queremos calcular la planilla de luz o el predio de un bien
+inmueble, si el cliente solicita la primera opción el código le pedirá el costo
+por kilovatio y el consumo del mes para mostrar un mensaje con esos datos 
+calculados, en el predio pedira el valor del bien y calculará el 2% para mostrar

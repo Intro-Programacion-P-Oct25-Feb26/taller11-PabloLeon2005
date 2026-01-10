@@ -1,0 +1,3 @@
+En lo que me confundí en un inicio era que al inicio pedía unicamente que elija
+lo que se quiere hacer, y luego en ambas funciones por separado pedía el 
+nombre y la cédula, luego me di cuenta que las podía pedir de manera global.
